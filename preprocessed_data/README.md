@@ -1,6 +1,8 @@
 Each dataset file is a Python dictionary which can be loaded using pickle.
 An example of the data structure is 
-	{	
+
+```	
+    {	
 		'dataset_name': "Wikitoxic", 
 		'class_names': ["Not abusive", "Abusive"], 
     	'text_train': ["Document 1a", "Document 2a", "Document 3a", ...], 
@@ -13,4 +15,6 @@ An example of the data structure is
         'y_test': [1, 1, 1, ...], 
         'gender_test': ['F', 'M', 'M', ...],
     }
+```
+
 Please not that some fields may not be applicable to some datasets.
