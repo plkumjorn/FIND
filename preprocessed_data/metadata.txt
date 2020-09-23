@@ -1,0 +1,59 @@
+===========================================
+The dataset 20Newsgroups has 2 classes: ['alt.atheism', 'soc.religion.christian']
+Training data has 863 examples: [(0, 386), (1, 477)]
+Validating data has 216 examples: [(0, 94), (1, 122)]
+Testing data has 717 examples: [(0, 319), (1, 398)]
+===========================================
+The dataset Religion has 2 classes: ['atheism', 'christianity']
+Testing data has 1819 examples: [(0, 819), (1, 1000)]
+===========================================
+The dataset AmazonClothes has 2 classes: ['Negative', 'Positive']
+Training data has 3000 examples: [(0, 1475), (1, 1525)]
+Validating data has 300 examples: [(0, 161), (1, 139)]
+Testing data has 10000 examples: [(0, 5034), (1, 4966)]
+===========================================
+The dataset AmazonMusic has 2 classes: ['Negative', 'Positive']
+Training data has 3000 examples: [(0, 1477), (1, 1523)]
+Validating data has 300 examples: [(0, 152), (1, 148)]
+Testing data has 8302 examples: [(0, 4172), (1, 4130)]
+===========================================
+The dataset AmazonMixed has 2 classes: ['Negative', 'Positive']
+Testing data has 100000 examples: [(0, 50039), (1, 49961)]
+===========================================
+The dataset Waseem has 2 classes: ['Not abusive', 'Abusive']
+Training data has 10144 examples: [(0, 6870), (1, 3274)]
+Gender distribution: [('F', 1337), ('M', 620), ('N', 8187)]
+Validating data has 3381 examples: [(0, 2301), (1, 1080)]
+Gender distribution: [('F', 440), ('M', 195), ('N', 2746)]
+Testing data has 3382 examples: [(0, 2330), (1, 1052)]
+Gender distribution: [('F', 429), ('M', 196), ('N', 2757)]
+===========================================
+The dataset Wikitoxic has 2 classes: ['Not abusive', 'Abusive']
+Training data has 56958 examples: [(0, 54281), (1, 2677)]
+Gender distribution: [('F', 1471), ('M', 6060), ('N', 49427)]
+Validating data has 19111 examples: [(0, 18218), (1, 893)]
+Gender distribution: [('F', 449), ('M', 2050), ('N', 16612)]
+Testing data has 18965 examples: [(0, 18064), (1, 901)]
+Gender distribution: [('F', 466), ('M', 1993), ('N', 16506)]
+===========================================
+The dataset Biosbias2 has 2 classes: ['surgeon', 'nurse']
+Training data has 3832 examples: [(0, 2097), (1, 1735)]
+Gender distribution: [('F', 1843), ('M', 1989)]
+Validating data has 1277 examples: [(0, 710), (1, 567)]
+Gender distribution: [('F', 612), ('M', 665)]
+Testing data has 1278 examples: [(0, 731), (1, 547)]
+Gender distribution: [('F', 599), ('M', 679)]
+===========================================
+The dataset AmazonProductsSmall has 4 classes: ['Clothing Shoes and Jewelry', 'Digital Music', 'Office Products', 'Toys and Games']
+Training data has 100 examples: [(0, 25), (1, 19), (2, 27), (3, 29)]
+Validating data has 100 examples: [(0, 28), (1, 24), (2, 25), (3, 23)]
+Testing data has 20000 examples: [(0, 5024), (1, 4994), (2, 4988), (3, 4994)]
+===========================================
+The dataset YelpSmall500 has 2 classes: ['Negative', 'Positive']
+Training data has 500 examples: [(0, 311), (1, 189)]
+Validating data has 100 examples: [(0, 53), (1, 47)]
+Testing data has 38000 examples: [(0, 19000), (1, 19000)]
+
+
+
+
