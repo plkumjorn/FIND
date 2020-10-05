@@ -23,7 +23,22 @@ TODO
 TODO
 
 ### Datasets
-TODO
+The datasets used in this paper can be downloaded [here](https://imperialcollegelondon.box.com/s/yph60lp41vxtr5bwea0pyfx2e65q8ked). Some of them are already in this github repository under the [`preprocessed data`](https://github.com/plkumjorn/FIND/tree/master/preprocessed_data) folder together with the data structure. You may extract the other datasets in the zip file and put them together in the `preprocessed_data` folder together. 
+
+|Experiment|Dataset|#Classes|Train / Dev / Test|
+|-----|-----|-----|-----|
+|1|Yelp|2|500 / 100 / 38000|
+||Amazon Products|4|100 / 100 / 20000|
+|2|Biosbias|2|3832 / 1277 / 1278|
+||Waseem|2|10144 / 3381 / 3382|
+||Wikitoxic|2|- / - / 18965|
+|3|20Newsgroups|2|863 / 216 / 717|
+||Religion|2| - / - / 1819|
+||Amazon Clothes|2| 3000 / 300 / 10000|
+||Amazon Music|2| - / - / 8302|
+||Amazon Mixed|2| - / - / 100000|
+
+
 
 ## Paper
 **Title**: FIND: Human-in-the-loop Debugging Deep Text Classifiers
