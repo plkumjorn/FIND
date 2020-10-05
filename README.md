@@ -23,7 +23,7 @@ TODO
 TODO
 
 ### Datasets
-The datasets used in this paper can be downloaded [here](https://imperialcollegelondon.box.com/s/yph60lp41vxtr5bwea0pyfx2e65q8ked). Some of them are already in this github repository under the [`preprocessed data`](https://github.com/plkumjorn/FIND/tree/master/preprocessed_data) folder together with the data structure. You may extract the other datasets in the zip file and put them together in the `preprocessed_data` folder together. 
+The datasets used in this paper can be downloaded [here](https://imperialcollegelondon.box.com/s/yph60lp41vxtr5bwea0pyfx2e65q8ked) as a single zip file. Some of the datasets are already in this github repository under the [`preprocessed_data`](https://github.com/plkumjorn/FIND/tree/master/preprocessed_data) folder with the data structure. For the other datasets, please download and extract the zip file and put them together in the `preprocessed_data` folder. 
 
 |Experiment|Dataset|#Classes|Train / Dev / Test|
 |-----|-----|-----|-----|
