@@ -10,11 +10,13 @@
 
 ## Description
 ![FIND Framework](FIND.PNG)
+*Overview of the debugging framework, FIND. The numbers in the green boxes refer to the
+corresponding Sections in the paper.*
 
-**FIND** (**F**eature **I**nvestigation a**N**d **D**isabling) is a framework for debugging deep text classifiers with human-in-the-loop (as shown in the above figure). Generally, deep text classifiers can be divided into two parts.
+**FIND** (**F**eature **I**nvestigation a**N**d **D**isabling) is a framework for debugging deep text classifiers with human-in-the-loop (as shown in the above figure). Generally, deep text classifiers (**M**) can be divided into two parts.
 
-- The first part performs **feature extraction**, transforming an input text into a dense vector (i.e., a feature vector) which represents the input. There are several alternatives to implement this part such as using convolutional layers, recurrent layers, and transformer layers. 
-- The second part performs **classification** passing the feature vector through a dense layer with softmax activation to get predicted probability of the classes.
+- The first part (<b>M<sub>f</sub></b>) performs **feature extraction**, transforming an input text into a dense vector (i.e., a feature vector **f**) which represents the input. There are several alternatives to implement this part such as using convolutional layers, recurrent layers, and transformer layers. 
+- The second part (<b>M<sub>c</sub></b>) performs **classification** passing the feature vector through a dense layer with softmax activation to get predicted probability of the classes.
 
 As the full name suggests, FIND debugs a deep text classifier by allowing humans to (i) investigate the patterns which each learned feature detects or focuses on (using [layerwise relevance propagation](https://arxiv.org/pdf/1606.07298.pdf) and word clouds) and then (ii) disable features that are irrelevant or harmful to the classification task (by not using them in the second part of the model). After the features are disabled, the model needs to be fine-tuned on the original dataset again to fully exploit the remaining features.
 
