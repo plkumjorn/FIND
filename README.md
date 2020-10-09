@@ -9,7 +9,16 @@
 **Contact**: Piyawat Lertvittayakumjorn (pl1515 [at] imperial [dot] ac [dot] uk)
 
 ## Description
-TODO   
+![FIND Framework](FIND.PNG)
+
+**FIND** (**F**eature **I**nvestigation a**N**d **D**isabling) is a framework for debugging deep text classifiers with human-in-the-loop (as shown in the above figure). Generally, deep text classifiers can be divided into two parts.
+
+- The first part performs **feature extraction**, transforming an input text into a dense vector (i.e., a feature vector) which represents the input. There are several alternatives to implement this part such as using convolutional layers, recurrent layers, and transformer layers. 
+- The second part performs **classification** passing the feature vector through a dense layer with softmax activation to get predicted probability of the classes.
+
+As the full name suggests, FIND debugs a deep text classifier by allowing humans to (i) investigate the patterns which each learned feature detects or focuses on (using [layerwise relevance propagation](https://arxiv.org/pdf/1606.07298.pdf) and word clouds) and then (ii) disable features that are irrelevant or harmful to the classification task (by not using them in the second part of the model). After the features are disabled, the model needs to be fine-tuned on the original dataset again to fully exploit the remaining features.
+
+Currently, FIND in this repository supports _1D Convolutional neural networks (1D CNNs)_ [(Kim, 2014)](https://arxiv.org/pdf/1408.5882.pdf). We provide two jupyter notebook examples ([debugging_20Newsgroups.ipynb](debugging_20Newsgroups.ipynb) and [debugging_biosbias.ipynb](debugging_biosbias.ipynb)) in which you may use FIND together with your judgements to debug CNNs. In the future, we plan to support bidirectional LSTMs and possibly some recent transformer-based models.
 
 ## How to use this repository
 ### Requirements
