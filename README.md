@@ -13,11 +13,20 @@ TODO
 
 ## How to use this repository
 ### Requirements
-- tensorflow
-- keras
-- WordCloud
-- iNNvestigate
-- GloVe 300 dim
+- [Python 3.6](https://www.python.org/downloads/release/python-360/)
+- Standard machine learning and deep learning modules
+	- [tensorflow](https://www.tensorflow.org/)==1.9.0
+	- [keras](https://keras.io/)==2.2.4
+	- [numpy](https://numpy.org/)==1.18.4
+	- [sklearn](https://scikit-learn.org/stable/)==0.21.3
+- Interpretability, visualization, and interaction modules
+	- [matplotlib](https://matplotlib.org/)==3.2.1
+	- [innvestigate](https://github.com/albermax/innvestigate)==1.0.8
+	- [wordcloud](https://github.com/amueller/word_cloud)==1.7.0
+	- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets)==7.5.1
+- NLP module and word embeddings
+	- [spacy](https://spacy.io/)==2.2.4
+	- [GloVe.6B](http://nlp.stanford.edu/data/glove.6B.zip) (300 dimensions)
 
 ### Code organization
 TODO

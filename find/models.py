@@ -4,7 +4,6 @@ import string, keras, spacy, pickle, json, math, random, os
 import numpy as np
 from tqdm import tqdm
 import tensorflow as tf
-import pandas as pd
 from collections import Counter
 from keras.utils.np_utils import to_categorical
 os.environ['PYTHONHASHSEED'] = '0'
