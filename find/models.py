@@ -97,42 +97,6 @@ class MaskedDense(Layer):
     def get_masked_weights(self):
         return K.get_value(self.mask) * K.get_value(self.kernel)
 
-# For adding binary features
-class WordMatching(Layer):
-
-    def __init__(self, units, **kwargs):
-        self.units = units
-        self.indices_initializer = keras.initializers.Zeros()
-        super(WordMatching, self).__init__(**kwargs)
-
-    def build(self, input_shape):
-        # Create a trainable weight variable for this layer.
-        input_dim = input_shape[-1]
-        
-        # The specified indices are not trainable
-        self.indices = self.add_weight(shape=(self.units,),
-                                      initializer=self.indices_initializer,
-                                      trainable=False,
-                                      name='indices')
-        
-        self.input_spec = InputSpec(min_ndim=2, axes={-1: input_dim})
-        self.built = True
-        super(WordMatching, self).build(input_shape)  # Be sure to call this at the end
-
-    def call(self, inputs):
-        X = K.expand_dims(inputs, -1)
-        indices = K.cast(self.indices, 'int32')
-        output = K.equal(X, indices)
-        output = K.any(output, -2)
-        output = K.cast(output, 'float32')
-        return output
-
-    def compute_output_shape(self, input_shape):
-        assert input_shape and len(input_shape) >= 2
-        output_shape = list(input_shape)
-        output_shape[-1] = self.units
-        return tuple(output_shape)
-
 # Model Training
 def model_train(model, bestmodel_path, X_train, y_train, X_validate, y_validate, batch_size, epochs = 100):
     # To one-hot encoding
