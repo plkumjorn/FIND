@@ -53,7 +53,7 @@ The datasets used in this paper can be downloaded [here](https://imperialcollege
 ||Amazon Music|2| - / - / 8302|
 ||Amazon Mixed|2| - / - / 100000|
 
-Additionally, we will share the trained models, word clouds, and their annotations of the experiments in the paper soon to enable future comparisons.
+Additionally, we will share the trained models, word clouds, and their annotations in the paper soon to enable future comparisons.
 
 
 ## Paper
