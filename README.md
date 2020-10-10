@@ -1,10 +1,8 @@
 # FIND: Human-in-the-loop Debugging Deep Text Classifiers. EMNLP 2020
 
-**_This README is now under construction and it will be ready around mid October 2020. Sorry for the inconvenience._**
-
 **Authors**: [Piyawat Lertvittayakumjorn](https://www.doc.ic.ac.uk/~pl1515/), [Lucia Specia](http://www.imperial.ac.uk/people/l.specia), and [Francesca Toni](https://www.doc.ic.ac.uk/~ft/) (Department of Computing, Imperial College London)
 
-**Paper links**: ACL Anthology (Available soon), ArXiv (Available soon)
+**Paper links**: ArXiv (Available soon), ACL Anthology (Available soon)
 
 **Contact**: Piyawat Lertvittayakumjorn (pl1515 [at] imperial [dot] ac [dot] uk)
 
@@ -20,10 +18,9 @@ corresponding Sections in the paper.*
 
 As the full name suggests, FIND debugs a deep text classifier by allowing humans to (i) investigate the patterns which each learned feature detects or focuses on (using [layerwise relevance propagation](https://arxiv.org/pdf/1606.07298.pdf) and word clouds) and then (ii) disable features that are irrelevant or harmful to the classification task (by not using them in the second part of the model). After the features are disabled, the model needs to be fine-tuned on the original dataset again to fully exploit the remaining features.
 
-Currently, FIND in this repository supports _1D Convolutional neural networks (1D CNNs)_ [(Kim, 2014)](https://arxiv.org/pdf/1408.5882.pdf). We provide two jupyter notebook examples ([debugging_20Newsgroups.ipynb](debugging_20Newsgroups.ipynb) and [debugging_biosbias.ipynb](debugging_biosbias.ipynb)) in which you may use FIND together with your judgements to debug CNNs. In the future, we plan to support bidirectional LSTMs and possibly some recent transformer-based models.
+**Currently, FIND in this repository supports _1D Convolutional neural networks (1D CNNs)_ [(Kim, 2014)](https://arxiv.org/pdf/1408.5882.pdf). We provide two jupyter notebook examples ([debugging_20Newsgroups.ipynb](debugging_20Newsgroups.ipynb) and [debugging_biosbias.ipynb](debugging_biosbias.ipynb)) in which you may use FIND together with your judgements to debug CNNs.** In the future, we plan to support bidirectional LSTMs and possibly some recent transformer-based models.
 
-## How to use this repository
-### Requirements
+## Requirements
 - [Python 3.6](https://www.python.org/downloads/release/python-360/)
 - Standard machine learning and deep learning modules
 	- [tensorflow](https://www.tensorflow.org/)==1.9.0
@@ -39,10 +36,8 @@ Currently, FIND in this repository supports _1D Convolutional neural networks (1
 	- [spacy](https://spacy.io/)==2.2.4
 	- [GloVe.6B](http://nlp.stanford.edu/data/glove.6B.zip) (300 dimensions)
 
-### Code organization
-TODO
 
-### Datasets
+## Datasets
 The datasets used in this paper can be downloaded [here](https://imperialcollegelondon.box.com/s/yph60lp41vxtr5bwea0pyfx2e65q8ked) as a single zip file. Some of the datasets are already in this github repository under the [`preprocessed_data`](https://github.com/plkumjorn/FIND/tree/master/preprocessed_data) folder with the data structure. For the other datasets, please download and extract the zip file and put them together in the `preprocessed_data` folder. 
 
 |Experiment|Dataset|#Classes|Train / Dev / Test|
@@ -58,6 +53,7 @@ The datasets used in this paper can be downloaded [here](https://imperialcollege
 ||Amazon Music|2| - / - / 8302|
 ||Amazon Mixed|2| - / - / 100000|
 
+Additionally, we will share the trained models, word clouds, and annotations from MTurk of our experiments in the paper soon to enable 
 
 
 ## Paper
@@ -69,7 +65,7 @@ The datasets used in this paper can be downloaded [here](https://imperialcollege
 
 **Abstract**: Since obtaining a perfect training dataset (i.e., a dataset which is considerably large, unbiased, and well-representative of unseen cases) is hardly possible, many real-world text classifiers are trained on the available, yet imperfect, datasets. These classifiers are thus likely to have undesirable properties. For instance, they may have biases against some sub-populations or may not work effectively in the wild due to overfitting. In this paper, we propose **FIND** -- a framework which enables humans to debug deep learning text classifiers by disabling irrelevant hidden features. Experiments show that by using FIND, humans can improve CNN text classifiers which were trained under different types of imperfect datasets (including datasets with biases and datasets with dissimilar train-test distributions).
 
-**Paper links**: ACL Anthology (Available soon), ArXiv (Available soon)
+**Paper links**: ArXiv (Available soon), ACL Anthology (Available soon)
 
 **Please cite**: TODO
 	
