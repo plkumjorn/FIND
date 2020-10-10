@@ -33,7 +33,7 @@ As the full name suggests, FIND debugs a deep text classifier by allowing humans
 	- [wordcloud](https://github.com/amueller/word_cloud)==1.7.0
 	- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets)==7.5.1
 - NLP module and word embeddings
-	- [spacy](https://spacy.io/)==2.2.4
+	- [spacy](https://spacy.io/)==2.2.4 (en)
 	- [GloVe.6B](http://nlp.stanford.edu/data/glove.6B.zip) (300 dimensions)
 
 
@@ -53,7 +53,7 @@ The datasets used in this paper can be downloaded [here](https://imperialcollege
 ||Amazon Music|2| - / - / 8302|
 ||Amazon Mixed|2| - / - / 100000|
 
-Additionally, we will share the trained models, word clouds, and annotations from MTurk of our experiments in the paper soon to enable 
+Additionally, we will share the trained models, word clouds, and their annotations of the experiments in the paper soon to enable future comparisons.
 
 
 ## Paper
