@@ -26,7 +26,7 @@ As the full name suggests, FIND debugs a deep text classifier by allowing humans
 	- [tensorflow](https://www.tensorflow.org/)==1.9.0
 	- [keras](https://keras.io/)==2.2.4
 	- [numpy](https://numpy.org/)==1.18.4
-	- [sklearn](https://scikit-learn.org/stable/)==0.21.3
+	- [scikit-learn](https://scikit-learn.org/stable/)==0.21.3
 - Interpretability, visualization, and interaction modules
 	- [matplotlib](https://matplotlib.org/)==3.2.1
 	- [innvestigate](https://github.com/albermax/innvestigate)==1.0.8
@@ -38,7 +38,7 @@ As the full name suggests, FIND debugs a deep text classifier by allowing humans
 
 
 ## Datasets
-The datasets used in this paper can be downloaded [here](https://imperialcollegelondon.box.com/s/yph60lp41vxtr5bwea0pyfx2e65q8ked) as a single zip file. Some of the datasets are already in this github repository under the [`preprocessed_data`](https://github.com/plkumjorn/FIND/tree/master/preprocessed_data) folder with the data structure. For the other datasets, please download and extract the zip file and put them together in the `preprocessed_data` folder. 
+The datasets used in this paper can be downloaded [here](https://drive.google.com/file/d/1yKgNqbli_loWakg0NpZkmfi3jBj_N7FK/view?usp=sharing) as a single zip file. Some of the datasets are already in this github repository under the [`preprocessed_data`](https://github.com/plkumjorn/FIND/tree/master/preprocessed_data) folder with the data structure. For the other datasets, please download and extract the zip file and put them together in the `preprocessed_data` folder. 
 
 |Experiment|Dataset|#Classes|Train / Dev / Test|
 |-----|-----|-----|-----|
