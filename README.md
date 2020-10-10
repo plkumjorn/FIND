@@ -1,4 +1,4 @@
-# FIND: Human-in-the-loop Debugging Deep Text Classifiers. EMNLP 2020
+# FIND: Human-in-the-Loop Debugging Deep Text Classifiers. EMNLP 2020
 
 **Authors**: [Piyawat Lertvittayakumjorn](https://www.doc.ic.ac.uk/~pl1515/), [Lucia Specia](http://www.imperial.ac.uk/people/l.specia), and [Francesca Toni](https://www.doc.ic.ac.uk/~ft/) (Department of Computing, Imperial College London)
 
@@ -57,7 +57,7 @@ Additionally, we will share the trained models, word clouds, and their annotatio
 
 
 ## Paper
-**Title**: FIND: Human-in-the-loop Debugging Deep Text Classifiers
+**Title**: FIND: Human-in-the-Loop Debugging Deep Text Classifiers
 
 **Authors**: Piyawat Lertvittayakumjorn, Lucia Specia, and Francesca Toni
 
