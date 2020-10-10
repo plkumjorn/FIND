@@ -23,7 +23,7 @@ As the full name suggests, FIND debugs a deep text classifier by allowing humans
 ## Requirements
 - [Python 3.6](https://www.python.org/downloads/release/python-360/)
 - Standard machine learning and deep learning modules
-	- [tensorflow](https://www.tensorflow.org/)==1.9.0
+	- [tensorflow](https://www.tensorflow.org/)==1.15.0
 	- [keras](https://keras.io/)==2.2.4
 	- [numpy](https://numpy.org/)==1.18.4
 	- [scikit-learn](https://scikit-learn.org/stable/)==0.21.3
