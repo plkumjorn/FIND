@@ -1,3 +1,4 @@
 .ipynb_checkpoints/*
 model_debugging_venv/*
 trained_models/*
+annotations/*

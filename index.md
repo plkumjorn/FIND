@@ -60,7 +60,7 @@ Additionally, we will share the trained models, word clouds, and their annotatio
 ## Results
 The following pages show word clouds (or, literally, n-gram clouds) of the CNN models we experimented on in the paper.
 
-- [Experiment 1: Yelp](https://plkumjorn.github.io/FIND/results/1A_yelp.md)
+- [Experiment 1: Yelp](https://plkumjorn.github.io/FIND/results/1A_yelp)
 - Experiment 1: Amazon Products
 - Experiment 2: Biosbias
 - Experiment 2: Waseem
