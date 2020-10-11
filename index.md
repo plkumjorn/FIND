@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="/favicon.png">
+<link rel="shortcut icon" type="image/png" href="favicon.ico">
 
 **Paper title**: FIND: Human-in-the-Loop Debugging Deep Text Classifiers
 
