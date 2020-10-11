@@ -309,66 +309,67 @@ td { white-space:pre }
 &emsp;&emsp;&emsp;- Office Products = 0
 &emsp;&emsp;&emsp;- Toys and Games = 0
 &emsp;&emsp;&emsp;- None = 0</td></tr><tr><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.143
+&emsp;&emsp;&emsp;- Average score: 0.213
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.180
+&emsp;&emsp;&emsp;- Average score: 0.900
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.198
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.192
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.120
+&emsp;&emsp;&emsp;- Average score: 0.391
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.192
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.192
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.057
+&emsp;&emsp;&emsp;- Average score: 0.061
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 0.600
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.960
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 0.758
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.285
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 1.000
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.176
+&emsp;&emsp;&emsp;- Average score: 1.000
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.881
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
 &emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.197
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.784
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 1.000
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.181
+&emsp;&emsp;&emsp;- Average score: 0.907
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.154
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.180
+&emsp;&emsp;&emsp;- Average score: 0.624
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.120
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.142
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.143
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.193
+&emsp;&emsp;&emsp;- Average score: 0.900
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.098
+&emsp;&emsp;&emsp;- Average score: 0.000
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 1.000
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.149
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 1.000
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.157
+&emsp;&emsp;&emsp;- Average score: 1.000
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.627
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.515
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 0.900
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.490
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 1.000
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.438
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 1.000
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.784
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 1.000
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td></tr></tbody></table>
+
 
 ### Model 2: AmazonProductsSmall_CNN_20200510191020
 
@@ -643,66 +644,67 @@ td { white-space:pre }
 &emsp;&emsp;&emsp;- Office Products = 0
 &emsp;&emsp;&emsp;- Toys and Games = 0
 &emsp;&emsp;&emsp;- None = 2</td></tr><tr><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.096
+&emsp;&emsp;&emsp;- Average score: 0.481
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.132
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.592
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
 &emsp;&emsp;&emsp;- Average score: 0.125
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.173
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.184
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.089
+&emsp;&emsp;&emsp;- Average score: 0.800
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.422
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.193
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.193
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.132
+&emsp;&emsp;&emsp;- Average score: 0.400
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 0.900
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 0.967
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.060
+&emsp;&emsp;&emsp;- Average score: 0.662
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 1.000
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 1.000
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.302
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.181
+&emsp;&emsp;&emsp;- Average score: 0.800
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 1.000
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.191
+&emsp;&emsp;&emsp;- Average score: 0.800
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.197
+&emsp;&emsp;&emsp;- Average score: 0.893
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.155
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.107
+&emsp;&emsp;&emsp;- Average score: 0.541
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.163
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.148
+&emsp;&emsp;&emsp;- Average score: 0.534
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.135
+&emsp;&emsp;&emsp;- Average score: 0.500
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 0.900
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.176
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.167
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.195
+&emsp;&emsp;&emsp;- Average score: 0.808
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.154
+&emsp;&emsp;&emsp;- Average score: 0.700
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.122
+&emsp;&emsp;&emsp;- Average score: 0.600
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.500
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.173
+&emsp;&emsp;&emsp;- Average score: 0.784
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.837
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.477
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.751
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.608
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.800
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td></tr></tbody></table>
+
 
 ### Model 3: AmazonProductsSmall_CNN_20200510192541
 
@@ -977,66 +979,67 @@ td { white-space:pre }
 &emsp;&emsp;&emsp;- Office Products = 0
 <b>&emsp;&emsp;&emsp;- Toys and Games = 5</b>
 &emsp;&emsp;&emsp;- None = 4</td></tr><tr><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.183
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 0.917
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.016
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 1.000
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.180
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.139
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.182
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.194
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.172
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.130
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.126
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.162
-&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
 &emsp;&emsp;&emsp;- Average score: 0.080
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.100
+&emsp;&emsp;&emsp;- Average score: 1.000
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.900
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.242
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.088
+&emsp;&emsp;&emsp;- Average score: 0.823
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.700
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.263
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.193
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.118
+&emsp;&emsp;&emsp;- Average score: 0.043
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.199
+&emsp;&emsp;&emsp;- Average score: 1.000
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.175
+&emsp;&emsp;&emsp;- Average score: 0.600
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.172
+&emsp;&emsp;&emsp;- Average score: 0.609
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.168
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
-&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.153
+&emsp;&emsp;&emsp;- Average score: 0.400
 &emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 0.500
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.440
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 1.000
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.200
+&emsp;&emsp;&emsp;- Average score: 0.965
 &emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.182
+&emsp;&emsp;&emsp;- Average score: 0.585
 &emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
-&emsp;&emsp;&emsp;- Average score: 0.184
-&emsp;&emsp;&emsp;- <b>Rank: B</b></td></tr></tbody></table>
+&emsp;&emsp;&emsp;- Average score: 0.595
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.575
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.758
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.600
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.442
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 1.000
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.666
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.800
+&emsp;&emsp;&emsp;- <b>Rank: B</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 1.000
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.900
+&emsp;&emsp;&emsp;- <b>Rank: A</b></td><td>&emsp;&emsp;<b>Summary:</b>
+&emsp;&emsp;&emsp;- Average score: 0.519
+&emsp;&emsp;&emsp;- <b>Rank: C</b></td></tr></tbody></table>
+
 
 <hr>
 
@@ -1048,7 +1051,7 @@ td { white-space:pre }
 
 ## Downloads
 - Models (Available soon)
-- [Wordclouds and annotations](https://drive.google.com/file/d/1l1VE3lXOCrMi6z4S5-KbifTgiTJsoQM4/view?usp=sharing)
+- [Wordclouds and annotations](https://drive.google.com/file/d/15yLiVRv9lzha6geR2nSzn__okQ8OTyT_/view?usp=sharing)
 - The dataset of this experiment as well as other experiments can be downloaded [here](https://drive.google.com/file/d/1yKgNqbli_loWakg0NpZkmfi3jBj_N7FK/view?usp=sharing).
 
 <hr>
