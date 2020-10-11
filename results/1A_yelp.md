@@ -1,4 +1,10 @@
 <style>
+
+.center-row td{
+    text-align: center; 
+    vertical-align: middle;    
+}
+
 tbody {
     display:block;
     width:13000px;
@@ -9,6 +15,8 @@ thead, tbody tr {
     width:100%;
     table-layout:fixed;
 }
+
+td { white-space:pre }
 
 </style>
 
