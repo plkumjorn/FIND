@@ -22,6 +22,8 @@ td { white-space:pre }
 
 # Experiment 1: Yelp
 
+[*<< Back to the main page*](https://plkumjorn.github.io/FIND)
+
 ## Basic information
 - **Task**: Sentiment analysis (of restaurant reviews)
 - **Dataset**: Yelp
@@ -867,3 +869,7 @@ td { white-space:pre }
 - Models (Available soon)
 - [Wordclouds and annotations](https://drive.google.com/file/d/1k7GmoT51Lcqx7x6nkY56VaegVSK0UNIT/view?usp=sharing)
 - The dataset of this experiment as well as other experiments can be downloaded [here](https://drive.google.com/file/d/1yKgNqbli_loWakg0NpZkmfi3jBj_N7FK/view?usp=sharing).
+
+<hr>
+
+[*<< Back to the main page*](https://plkumjorn.github.io/FIND)
