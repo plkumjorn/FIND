@@ -20,9 +20,9 @@ td { white-space:pre }
 
 </style>
 
-# Experiment 1: Yelp
-
 [*<< Back to the main page*](https://plkumjorn.github.io/FIND)
+
+# Experiment 1: Yelp
 
 ## Basic information
 - **Task**: Sentiment analysis (of restaurant reviews)
