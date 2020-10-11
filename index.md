@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="favicon.ico">
-
 **Paper title**: FIND: Human-in-the-Loop Debugging Deep Text Classifiers
 
 **Authors**: [Piyawat Lertvittayakumjorn](https://www.doc.ic.ac.uk/~pl1515/), [Lucia Specia](http://www.imperial.ac.uk/people/l.specia), and [Francesca Toni](https://www.doc.ic.ac.uk/~ft/) (Department of Computing, Imperial College London)
@@ -58,6 +56,16 @@ The datasets used in this paper can be downloaded [here](https://drive.google.co
 ||Amazon Mixed|2| - / - / 100000|
 
 Additionally, we will share the trained models, word clouds, and their annotations in the paper soon to enable future comparisons.
+
+## Results
+The following pages show word clouds (or, literally, n-gram clouds) of the CNN models we experimented on in the paper.
+
+- [Experiment 1: Yelp](https://plkumjorn.github.io/FIND/results/1A_yelp.md)
+- Experiment 1: Amazon Products
+- Experiment 2: Biosbias
+- Experiment 2: Waseem
+- Experiment 3: 20Newsgroups
+- Experiment 3: Amazon Clothes
 
 
 ## Paper
