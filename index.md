@@ -64,7 +64,7 @@ The following pages show word clouds (or, literally, n-gram clouds) of the CNN m
 - [Experiment 1: Amazon Products](https://plkumjorn.github.io/FIND/results/1B_amazonproducts)
 - [Experiment 2: Biosbias](https://plkumjorn.github.io/FIND/results/2A_biosbias)
 - [Experiment 2: Waseem](https://plkumjorn.github.io/FIND/results/2B_waseem)
-- Experiment 3: 20Newsgroups
+- [Experiment 3: 20Newsgroups](https://plkumjorn.github.io/FIND/results/3A_20newsgroups)
 - Experiment 3: Amazon Clothes
 
 
