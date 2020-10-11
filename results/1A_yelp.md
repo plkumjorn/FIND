@@ -12,7 +12,7 @@
 
 
 ## Results
-![Result table](figures/table_1A.PNG)
+![Result table](../figures/table_1A.PNG)
 *Results (Average ± SD) of Experiment 1: Yelp, CNNs; Boldface numbers are the best scores in the columns. They are further underlined if they are significantly better than the scores of all the other models (based on approximate randomization test with α = 0.05)*
 
 ## Downloads
