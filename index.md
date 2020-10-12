@@ -38,6 +38,7 @@ As the full name suggests, FIND debugs a deep text classifier by allowing humans
 	- [spacy](https://spacy.io/)==2.2.4 (en)
 	- [GloVe.6B](http://nlp.stanford.edu/data/glove.6B.zip) (300 dimensions)
 
+Note that the packages with slightly different versions might work as well.
 
 ## Datasets
 The datasets used in this paper can be downloaded [here](https://drive.google.com/file/d/1yKgNqbli_loWakg0NpZkmfi3jBj_N7FK/view?usp=sharing) as a single zip file. Some of the datasets are already in this github repository under the [`preprocessed_data`](https://github.com/plkumjorn/FIND/tree/master/preprocessed_data) folder with the data structure. For the other datasets, please download and extract the zip file and put them together in the `preprocessed_data` folder. 
