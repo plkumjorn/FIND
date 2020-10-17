@@ -4,7 +4,7 @@
 
 **Authors**: [Piyawat Lertvittayakumjorn](https://www.doc.ic.ac.uk/~pl1515/), [Lucia Specia](http://www.imperial.ac.uk/people/l.specia), and [Francesca Toni](https://www.doc.ic.ac.uk/~ft/) (Department of Computing, Imperial College London)
 
-**Paper links**: ArXiv (Available soon), ACL Anthology (Available soon)
+**Paper links**: [ArXiv](https://arxiv.org/abs/2010.04987), ACL Anthology (Available soon)
 
 **Contact**: Piyawat Lertvittayakumjorn (pl1515 [at] imperial [dot] ac [dot] uk)
 
@@ -76,7 +76,17 @@ The following pages show word clouds (or, literally, n-gram clouds) of the CNN m
 
 **Abstract**: Since obtaining a perfect training dataset (i.e., a dataset which is considerably large, unbiased, and well-representative of unseen cases) is hardly possible, many real-world text classifiers are trained on the available, yet imperfect, datasets. These classifiers are thus likely to have undesirable properties. For instance, they may have biases against some sub-populations or may not work effectively in the wild due to overfitting. In this paper, we propose **FIND** -- a framework which enables humans to debug deep learning text classifiers by disabling irrelevant hidden features. Experiments show that by using FIND, humans can improve CNN text classifiers which were trained under different types of imperfect datasets (including datasets with biases and datasets with dissimilar train-test distributions).
 
-**Paper links**: ArXiv (Available soon), ACL Anthology (Available soon)
+**Paper links**: [ArXiv](https://arxiv.org/abs/2010.04987), ACL Anthology (Available soon)
 
-**Please cite**: TODO
+**Please cite**:
+```
+@misc{lertvittayakumjorn2020find,
+      title={FIND: Human-in-the-Loop Debugging Deep Text Classifiers}, 
+      author={Piyawat Lertvittayakumjorn and Lucia Specia and Francesca Toni},
+      year={2020},
+      eprint={2010.04987},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 	
