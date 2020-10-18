@@ -2,3 +2,4 @@
 model_debugging_venv/*
 trained_models/*
 find/__pycache__/*
+annotations/*
