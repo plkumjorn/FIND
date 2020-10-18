@@ -38,6 +38,7 @@ As the full name suggests, FIND debugs a deep text classifier by allowing humans
 	- [spacy](https://spacy.io/)==2.2.4 (en)
 	- [GloVe.6B](http://nlp.stanford.edu/data/glove.6B.zip) (300 dimensions)
 
+Note that the packages with slightly different versions might work as well.
 
 ## Datasets
 The datasets used in this paper can be downloaded [here](https://drive.google.com/file/d/1yKgNqbli_loWakg0NpZkmfi3jBj_N7FK/view?usp=sharing) as a single zip file. Some of the datasets are already in this github repository under the [`preprocessed_data`](https://github.com/plkumjorn/FIND/tree/master/preprocessed_data) folder with the data structure. For the other datasets, please download and extract the zip file and put them together in the `preprocessed_data` folder. 
@@ -55,7 +56,6 @@ The datasets used in this paper can be downloaded [here](https://drive.google.co
 ||Amazon Music|2| - / - / 8302|
 ||Amazon Mixed|2| - / - / 100000|
 
-Additionally, we will share the trained models, word clouds, and their annotations in the paper soon to enable future comparisons.
 
 ## Results
 The following pages show word clouds (or, literally, n-gram clouds) of the CNN models we experimented on in the paper. If you want to use the original trained models in the experiments, please contact [Piyawat](https://www.doc.ic.ac.uk/~pl1515/) (pl1515 [at] imperial [dot] ac [dot] uk).
