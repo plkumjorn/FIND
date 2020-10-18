@@ -57,7 +57,7 @@ The datasets used in this paper can be downloaded [here](https://drive.google.co
 ||Amazon Mixed|2| - / - / 100000|
 
 ## Results
-The following pages show word clouds (or, literally, n-gram clouds) of the CNN models we experimented on in the paper. We will share the trained models soon to enable future comparisons.
+The following pages show word clouds (or, literally, n-gram clouds) of the CNN models we experimented on in the paper. If you want to use the original trained models in the experiments, please contact [Piyawat](https://www.doc.ic.ac.uk/~pl1515/) (pl1515 [at] imperial [dot] ac [dot] uk).
 
 - [Experiment 1: Yelp](https://plkumjorn.github.io/FIND/results/1A_yelp)
 - [Experiment 1: Amazon Products](https://plkumjorn.github.io/FIND/results/1B_amazonproducts)
