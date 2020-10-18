@@ -4,7 +4,7 @@
 
 **Authors**: [Piyawat Lertvittayakumjorn](https://www.doc.ic.ac.uk/~pl1515/), [Lucia Specia](http://www.imperial.ac.uk/people/l.specia), and [Francesca Toni](https://www.doc.ic.ac.uk/~ft/) (Department of Computing, Imperial College London)
 
-**Paper links**: ArXiv (Available soon), ACL Anthology (Available soon)
+**Paper links**: [ArXiv (pre-print)](https://arxiv.org/abs/2010.04987), ACL Anthology (Available soon)
 
 **Contact**: Piyawat Lertvittayakumjorn (pl1515 [at] imperial [dot] ac [dot] uk)
 
@@ -38,6 +38,7 @@ As the full name suggests, FIND debugs a deep text classifier by allowing humans
 	- [spacy](https://spacy.io/)==2.2.4 (en)
 	- [GloVe.6B](http://nlp.stanford.edu/data/glove.6B.zip) (300 dimensions)
 
+Note that the packages with slightly different versions might work as well.
 
 ## Datasets
 The datasets used in this paper can be downloaded [here](https://drive.google.com/file/d/1yKgNqbli_loWakg0NpZkmfi3jBj_N7FK/view?usp=sharing) as a single zip file. Some of the datasets are already in this github repository under the [`preprocessed_data`](https://github.com/plkumjorn/FIND/tree/master/preprocessed_data) folder with the data structure. For the other datasets, please download and extract the zip file and put them together in the `preprocessed_data` folder. 
@@ -55,7 +56,15 @@ The datasets used in this paper can be downloaded [here](https://drive.google.co
 ||Amazon Music|2| - / - / 8302|
 ||Amazon Mixed|2| - / - / 100000|
 
-Additionally, we will share the trained models, word clouds, and their annotations in the paper soon to enable future comparisons.
+## Results
+The following pages show word clouds (or, literally, n-gram clouds) of the CNN models we experimented on in the paper. We will share the trained models soon to enable future comparisons.
+
+- [Experiment 1: Yelp](https://plkumjorn.github.io/FIND/results/1A_yelp)
+- [Experiment 1: Amazon Products](https://plkumjorn.github.io/FIND/results/1B_amazonproducts)
+- [Experiment 2: Biosbias](https://plkumjorn.github.io/FIND/results/2A_biosbias)
+- [Experiment 2: Waseem](https://plkumjorn.github.io/FIND/results/2B_waseem)
+- [Experiment 3: 20Newsgroups](https://plkumjorn.github.io/FIND/results/3A_20newsgroups)
+- [Experiment 3: Amazon Clothes](https://plkumjorn.github.io/FIND/results/3B_amazonclothes)
 
 
 ## Paper
@@ -67,7 +76,17 @@ Additionally, we will share the trained models, word clouds, and their annotatio
 
 **Abstract**: Since obtaining a perfect training dataset (i.e., a dataset which is considerably large, unbiased, and well-representative of unseen cases) is hardly possible, many real-world text classifiers are trained on the available, yet imperfect, datasets. These classifiers are thus likely to have undesirable properties. For instance, they may have biases against some sub-populations or may not work effectively in the wild due to overfitting. In this paper, we propose **FIND** -- a framework which enables humans to debug deep learning text classifiers by disabling irrelevant hidden features. Experiments show that by using FIND, humans can improve CNN text classifiers which were trained under different types of imperfect datasets (including datasets with biases and datasets with dissimilar train-test distributions).
 
-**Paper links**: ArXiv (Available soon), ACL Anthology (Available soon)
+**Paper links**: [ArXiv (pre-print)](https://arxiv.org/abs/2010.04987), ACL Anthology (Available soon)
 
-**Please cite**: TODO
+**Please cite**:
+```
+@misc{lertvittayakumjorn2020find,
+      title={FIND: Human-in-the-Loop Debugging Deep Text Classifiers}, 
+      author={Piyawat Lertvittayakumjorn and Lucia Specia and Francesca Toni},
+      year={2020},
+      eprint={2010.04987},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 	
