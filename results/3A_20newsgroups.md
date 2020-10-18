@@ -602,9 +602,9 @@ td { white-space:pre }
 <hr>
 
 ## Downloads
-- Models (Available soon)
 - [Wordclouds and annotations](https://drive.google.com/file/d/1uWCiRq39q-Q51XfW67O8pTDHNqMlwDxI/view?usp=sharing)
 - The dataset of this experiment as well as other experiments can be downloaded [here](https://drive.google.com/file/d/1yKgNqbli_loWakg0NpZkmfi3jBj_N7FK/view?usp=sharing).
+- If you want to use the original trained models in the experiments, please contact [Piyawat](https://www.doc.ic.ac.uk/~pl1515/) (pl1515 [at] imperial [dot] ac [dot] uk).
 
 <hr>
 
