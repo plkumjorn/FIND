@@ -20,7 +20,7 @@ corresponding Sections in the paper.*
 
 As the full name suggests, FIND debugs a deep text classifier by allowing humans to (i) investigate the patterns which each learned feature detects or focuses on (using [layerwise relevance propagation](https://arxiv.org/pdf/1606.07298.pdf) and word clouds) and then (ii) disable features that are irrelevant or harmful to the classification task (by not using them in the second part of the model). After the features are disabled, the model needs to be fine-tuned on the original dataset again to fully exploit the remaining features.
 
-**Currently, FIND in this repository supports _1D Convolutional neural networks (1D CNNs)_ [(Kim, 2014)](https://arxiv.org/pdf/1408.5882.pdf). We provide two jupyter notebook examples ([debugging_20Newsgroups.ipynb](debugging_20Newsgroups.ipynb) and [debugging_biosbias.ipynb](debugging_biosbias.ipynb)) in which you may use FIND together with your judgements to debug CNNs.** In the future, we plan to support bidirectional LSTMs and possibly some recent transformer-based models.
+**Currently, FIND in this repository supports _1D Convolutional neural networks (1D CNNs)_ [(Kim, 2014)](https://arxiv.org/pdf/1408.5882.pdf). We provide two jupyter notebook examples ([debugging_20Newsgroups.ipynb](https://github.com/plkumjorn/FIND/blob/master/debugging_20Newsgroups.ipynb) and [debugging_biosbias.ipynb](https://github.com/plkumjorn/FIND/blob/master/debugging_biosbias.ipynb) in which you may use FIND together with your judgements to debug CNNs.** In the future, we plan to support bidirectional LSTMs and possibly some recent transformer-based models.
 
 ## Requirements
 - [Python 3.6](https://www.python.org/downloads/release/python-360/)
@@ -58,7 +58,7 @@ The datasets used in this paper can be downloaded [here](https://drive.google.co
 
 
 ## Results
-The following pages show word clouds (or, literally, n-gram clouds) of the CNN models we experimented on in the paper. If you want to use the original trained models in the experiments, please contact [Piyawat](https://www.doc.ic.ac.uk/~pl1515/) (pl1515 [at] imperial [dot] ac [dot] uk).
+The following pages show word clouds (or, literally, n-gram clouds) of the CNN models we experimented on in the paper. If you want to use the original trained models in the experiments, please contact [Piyawat](https://www.doc.ic.ac.uk/~pl1515/) (pl1515 [at] imperial [dot] ac [dot] uk). You can then follow the jupyter notebook [load_and_run.ipynb](https://github.com/plkumjorn/FIND/blob/master/load_and_run.ipynb) as an example to load and run a pre-trained model.
 
 - [Experiment 1: Yelp](https://plkumjorn.github.io/FIND/results/1A_yelp)
 - [Experiment 1: Amazon Products](https://plkumjorn.github.io/FIND/results/1B_amazonproducts)
