@@ -4,7 +4,7 @@
 
 **Venue**: [The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)](https://2020.emnlp.org/)
 
-**Paper links**: [ArXiv (pre-print)](https://arxiv.org/abs/2010.04987), ACL Anthology (Available soon)
+**Paper links**: [ArXiv (pre-print)](https://arxiv.org/abs/2010.04987), [ACL Anthology](https://www.aclweb.org/anthology/2020.emnlp-main.24/)
 
 **Contact**: Piyawat Lertvittayakumjorn (pl1515 [at] imperial [dot] ac [dot] uk)
 
@@ -77,16 +77,21 @@ The following pages show word clouds (or, literally, n-gram clouds) of the CNN m
 
 **Abstract**: Since obtaining a perfect training dataset (i.e., a dataset which is considerably large, unbiased, and well-representative of unseen cases) is hardly possible, many real-world text classifiers are trained on the available, yet imperfect, datasets. These classifiers are thus likely to have undesirable properties. For instance, they may have biases against some sub-populations or may not work effectively in the wild due to overfitting. In this paper, we propose **FIND** -- a framework which enables humans to debug deep learning text classifiers by disabling irrelevant hidden features. Experiments show that by using FIND, humans can improve CNN text classifiers which were trained under different types of imperfect datasets (including datasets with biases and datasets with dissimilar train-test distributions).
 
-**Paper links**: [ArXiv (pre-print)](https://arxiv.org/abs/2010.04987), ACL Anthology (Available soon)
+**Paper links**: [ArXiv (pre-print)](https://arxiv.org/abs/2010.04987), [ACL Anthology](https://www.aclweb.org/anthology/2020.emnlp-main.24/)
 
 **Please cite**:
 ```
-@misc{lertvittayakumjorn2020find,
-      title={FIND: Human-in-the-Loop Debugging Deep Text Classifiers}, 
-      author={Piyawat Lertvittayakumjorn and Lucia Specia and Francesca Toni},
-      year={2020},
-      eprint={2010.04987},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{lertvittayakumjorn-etal-2020-find,
+    title = "{FIND}: {H}uman-in-the-{L}oop {D}ebugging {D}eep {T}ext {C}lassifiers",
+    author = "Lertvittayakumjorn, Piyawat  and
+      Specia, Lucia  and
+      Toni, Francesca",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.24",
+    pages = "332--348",
 }
 ```
